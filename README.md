@@ -16,8 +16,8 @@ Additionally, outside of the PM world, I'm ultra passionate to helping my non-te
 | Project | What It Does |Type | Stack |
 |---------|-------------|-------|-------|
 | The AI PM Playbook (SOON) | Full end-to-end best practices on owning the AI first Product Manager title | AI PM | Document |
-| [Faceless YouTube/TikTok Uploader](https://github.com/RheingoldAI/faceless-youtube-bot) | Take a set of social content, send it to the Uploader, generate captions, and schedule in batches | Side Project | Python, Sonnet 4 |
-| [Roast My Setup](roastmysetup.fun) | Snap a photo of your dev station setup and let AI roast it for you! | Side Project | Next.js, TypeScript, Grok Vision |
+| [Faceless YouTube/TikTok Uploader](https://github.com/RheingoldAI/faceless-youtube-bot) | Take a set of social content, send it to the Uploader, generate captions, and schedule in batches | Fun! | Python, Sonnet 4 |
+| [Roast My Setup](roastmysetup.fun) | Snap a photo of your dev station setup and let AI roast it for you! | Fun! | Next.js, TypeScript, Grok Vision |
 
 #### Connect
 - 💼 [LinkedIn](linkedin.com/jrheingold)

@@ -11,7 +11,7 @@ Additionally, outside of the PM world, I'm ultra passionate to helping my non-te
 - 📚 Digging deeper and deeper in agentic coding with Claude, Codex, Perplexity, and other frontier tools/models
 - 🤝 Looking to learn more about AI and agentic tools, grow my PM skillset, and network with the brilliant people in this industry
 
-## Featured Projects
+#### Featured Projects
 
 | Project | What It Does |Type | Stack |
 |---------|-------------|-------|-------|
@@ -19,7 +19,7 @@ Additionally, outside of the PM world, I'm ultra passionate to helping my non-te
 | [Faceless YouTube/TikTok Uploader](https://github.com/RheingoldAI/faceless-youtube-bot) | Take a set of social content, send it to the Uploader, generate captions, and schedule in batches | Side Project | Python, Sonnet 4 |
 | [Roast My Setup](roastmysetup.fun) | Snap a photo of your dev station setup and let AI roast it for you! | Side Project | Next.js, Typescript, Grok Vision |
 
-## Connect
+#### Connect
 - 💼 [LinkedIn](linkedin.com/jrheingold)
 - 📝 [Portfolio/Blog](https://substack.com/@rheezybuilds)
 - 📧 [Email](jmrheingold@gmail.com)

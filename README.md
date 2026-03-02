@@ -1,4 +1,4 @@
-# Hi, I'm Jake 👋
+# Hi, I'm Jake 👋🏼
 
 I build agentic workflows, guides/automations, and documentation for Product Managers to uplevel their skillets in the new age of AI.
 
@@ -9,7 +9,7 @@ Additionally, outside of the PM world, I'm ultra passionate to helping my non-te
 - 🔨 The AI PM Playbook — full end-to-end best practices on owning the AI first Product Manager title
 - 📽️ Frontier tooling side projects — upleveling my engineering skills by solving niche problems with creative solutions
 - 📚 Digging deeper and deeper in agentic coding with Claude, Codex, Perplexity, and other frontier tools/models
-- 🤝 Looking to learn more about AI and agentic tools, grow my PM skillset, and network with the brilliant people in this industry
+- 🤝🏼 Looking to learn more about AI and agentic tools, grow my PM skillset, and network with the brilliant people in this industry
 
 #### Featured Projects
 
@@ -23,6 +23,7 @@ Additionally, outside of the PM world, I'm ultra passionate to helping my non-te
 - 💼 [LinkedIn](linkedin.com/jrheingold)
 - 📝 [Portfolio/Blog](https://substack.com/@rheezybuilds)
 - 📧 [Email](jmrheingold@gmail.com)
+- 🐦 [𝕏](https://x.com/RheezyBuilds)
 
 ---
 *PM who builds things. Currently becoming an expert in AI.*

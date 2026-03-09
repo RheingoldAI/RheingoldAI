@@ -15,7 +15,7 @@ Additionally, outside of the PM world, I'm ultra passionate to helping my non-te
 
 | Project | What It Does |Type | Stack |
 |---------|-------------|-------|-------|
-|Claude Voice Skill Generator|Turn your writing samples into a personal Claude skill that writes exactly like you|Claude Skill|Claude|
+|[Claude Voice Skill Generator](https://github.com/RheingoldAI/voice-skill-generator)|Turn your writing samples into a personal Claude skill that writes exactly like you|Claude Skill|Claude|
 | The AI PM Playbook (SOON) | Full end-to-end best practices on owning the AI first Product Manager title | AI PM | Document |
 
 #### Side Projects

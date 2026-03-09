@@ -11,11 +11,17 @@ Additionally, outside of the PM world, I'm ultra passionate to helping my non-te
 - 📚 Digging deeper and deeper in agentic coding with Claude, Codex, Perplexity, and other frontier tools/models
 - 🤝🏼 Looking to learn more about AI and agentic tools, grow my PM skillset, and network with the brilliant people in this industry
 
-#### Featured Projects
+#### Product Engineering Projects
 
 | Project | What It Does |Type | Stack |
 |---------|-------------|-------|-------|
+|Claude Voice Skill Generator|Turn your writing samples into a personal Claude skill that writes exactly like you|Claude Skill|Claude|
 | The AI PM Playbook (SOON) | Full end-to-end best practices on owning the AI first Product Manager title | AI PM | Document |
+
+#### Side Projects
+
+| Project | What It Does |Type | Stack |
+|---------|-------------|-------|-------|
 | [Faceless YouTube/TikTok Uploader](https://github.com/RheingoldAI/faceless-social-media-video-uploader) | Take a set of social content, send it to the Uploader, generate captions, and schedule in batches | Fun! | Python, Sonnet 4 |
 | [Roast My Setup](roastmysetup.fun) | Snap a photo of your dev station setup and let AI roast it for you! | Fun! | Next.js, TypeScript, Grok Vision |
 

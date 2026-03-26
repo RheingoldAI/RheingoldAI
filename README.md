@@ -24,7 +24,7 @@ Additionally, outside of the PM world, I'm ultra passionate to helping my non-te
 
 | Project | What It Does |Type | Stack |
 |---------|-------------|-------|-------|
-| [Cursed with Knowledge Newsletter](https://github.com/RheingoldAI/cursed-with-knowledge) | Curate a shceduled weekly blog summarizing the previous week's AI and tech news | Fun! ([Subscribe here](https://substack.com/@rheezybuilds)) | Claude, Substack |
+| [Cursed with Knowledge Newsletter](https://github.com/RheingoldAI/cursed-with-knowledge) | Curate a scheduled weekly blog summarizing the previous week's AI and tech news | Fun! ([Subscribe here](https://substack.com/@rheezybuilds)) | Claude, Substack |
 | [March Madness AI Simulation 2026](https://github.com/RheingoldAI/march-madness-ai-2026) | Fed data points to frontier AI models and had them predict the outcome of the NCAA Tournament | Fun! | Claude Opus 4.6, ChatGPT-5.4, Gemini 3.1 Pro, DeepSeek v3.2|
 | [Faceless YouTube/TikTok Uploader](https://github.com/RheingoldAI/faceless-social-media-video-uploader) | Take a set of social content, send it to the Uploader, generate captions, and schedule in batches | Fun! | Python, Sonnet 4 |
 | [Roast My Setup](roastmysetup.fun) | Snap a photo of your dev station setup and let AI roast it for you! | Fun! | Next.js, TypeScript, Grok Vision |

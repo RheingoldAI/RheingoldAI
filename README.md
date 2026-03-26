@@ -15,6 +15,7 @@ Additionally, outside of the PM world, I'm ultra passionate to helping my non-te
 
 | Project | What It Does |Type | Stack |
 |---------|-------------|-------|-------|
+| [Feature Intake Request Agent System](https://github.com/RheingoldAI/feature-request-intake-agent-system) | An AI-powered feature request intake system that turns a simple form submission into a fully triaged, documented, and tracked work item — in under 60 seconds | Agent System | Claude |
 | [Daily Briefing Agent](https://github.com/RheingoldAI/daily-briefing-agent) | Synthesize your emails, messages, and meetings into a daily prioritized briefing that hits your inbox every morning | PM Agent | Claude |
 |[Claude Voice Skill Generator](https://github.com/RheingoldAI/voice-skill-generator)|Turn your writing samples into a personal Claude skill that writes exactly like you|Claude Skill|Claude|
 | The AI PM Playbook (SOON) | Full end-to-end best practices on owning the AI first Product Manager title | AI PM | Document |
